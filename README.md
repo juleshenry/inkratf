@@ -1,1 +1,1 @@
-dummy files
+rm *[a-zA-Z].
